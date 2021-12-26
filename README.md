@@ -1,2 +1,2 @@
-# dashboard
- For CS313 assignment
+# CS313 Dashboard.
+## 6204101369 จิรายุ พฤฒิทวีวัฒน์
